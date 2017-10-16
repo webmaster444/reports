@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    reports (0.0.1)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    yard (0.9.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  reports!
+  yard
+
+BUNDLED WITH
+   1.15.4
